@@ -1,24 +1,13 @@
 # MTA-DreamRPG
 Gamemod RPG do Multi Theft Auto, napisany w języku Lua.
 # AUTORZY
-- Xantris
-- Bone
-- Split
+- Soczek
 - Łukasz "Wielebny" Biegaj
 - IQ
-- TheNoobisty
-- CrosRoad95
-- NeX
-- Borsuk
-- TomeQmix
-- Kolciarz
-- Lagerek
-- Enonek
-- Zbigniew "Zbyk.gg" Płachciński
-- Chojnas
-  I inni 
+- Pazdam
+- Rick.
 # LICENCJA
-Warunkiem wykorzystania tego kodu jest NIE TWORZENIE serwera o nazwie DreamRPG. Wykorzystaj go swobodnie, ale swoje dzieło nazwij oryginalnie.
+Warunkiem wykorzystania tego kodu jest NIE TWORZENIE serwera o nazwie Play Your Life. Wykorzystaj go swobodnie, ale swoje dzieło nazwij oryginalnie.
 # ZAWARTOŚĆ REPOZYTORIUM
 
 W repozytorium znajduje się:
@@ -27,10 +16,7 @@ W repozytorium znajduje się:
 
 
 W repozytorium nie ma:
-- Kodu bota discord integrującego z serwerem MTA
-- Niektórych modeli budynków
-- Panelu WWW gracza
-- Zasobu odpowiadającego za zgłoszenia frakcyjne
+- konfiguracji forum.
 
 # GDZIE I JAK URUCHOMIĆ SERWER?
 Uruchomienie serwera nie wymaga żadnego specjalnego serwera dedykowanego. Aby go uruchomić, wystarczy zwykły hosting. Polecamy:
@@ -52,6 +38,6 @@ Nie ma pełnej dokumentacji do wszystkich elementów kodu. Jest on dość spory 
 
 ### Obsługa bazy danych.
 
-Komunikacja przez funkcje db... jest realizowana w zasobie nrpg_db
+Komunikacja przez funkcje db... jest realizowana w zasobie DB2
 
-Pisząc dowolny fragment kodu korzystający z baz danych, powinieneś odwoływać się tylko do zasobu nrpg_db
+Pisząc dowolny fragment kodu korzystający z baz danych, powinieneś odwoływać się tylko do zasobu DB2
