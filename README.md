@@ -1,4 +1,4 @@
-# MTA-DreamRPG
+# MTA Play Your Life (never gonna give you up)
 Gamemod RPG do Multi Theft Auto, napisany w języku Lua.
 # AUTORZY
 - Soczek
